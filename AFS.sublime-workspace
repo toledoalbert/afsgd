@@ -1,0 +1,693 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"val",
+				"val2"
+			],
+			[
+				"ad",
+				"addStuff"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"foo",
+				"logo-footer"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"tum",
+				"tumblr_photo_post"
+			],
+			[
+				"tu",
+				"tumblr_posts"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"htt",
+				"http://www"
+			],
+			[
+				"gez",
+				"gezi"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/controllers/site.php",
+			"settings":
+			{
+				"buffer_size": 649,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3227,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/site_header.php",
+			"settings":
+			{
+				"buffer_size": 509,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/Bootstrap/css/doc.css",
+			"settings":
+			{
+				"buffer_size": 490,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/site_footer.php",
+			"settings":
+			{
+				"buffer_size": 1230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/site_nav.php",
+			"settings":
+			{
+				"buffer_size": 3062,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/model_get.php",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint Inline/JSHint-Inline.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"toggle tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"toggle ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"toggle si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View: Toggle Status Bar"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"print",
+				"Print Entire File"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git com",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Add Current File"
+			],
+			[
+				"alignme",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"sche",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"schem",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"scheme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packg",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/toledoalbert/Documents/Web Projects/AFS/styles/Bootstrap/css/doc.css",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/application/views/content_home.php",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/application/config/autoload.php",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/system/core/Loader.php",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/application/config/database.php",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/styles/style.css",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/scripts/alert.js",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/application/views/site_nav.php",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/application/config/config.php",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/application/views/site_header.php",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/application/views/content_about.php",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/application/views/site_footer.php",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/application/views/view_home.php",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/style/css/offcanvas.css",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/application/config/routes.php",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/application/controllers/welcome.php",
+		"/Users/toledoalbert/Documents/Web Projects/AFS/.htaccess",
+		"/Users/toledoalbert/Documents/Web Projects/index.html",
+		"/Users/toledoalbert/Documents/Web Projects/alberttoledo.com/index.php",
+		"/Users/toledoalbert/Library/Application Support/Sublime Text 2/Packages/User/SublimePrint.sublime-settings",
+		"/Users/toledoalbert/Desktop/package org.tekkotsu.stateMachine.parts;",
+		"/Users/toledoalbert/Library/Application Support/Sublime Text 2/Packages/SublimePrint/SublimePrint.sublime-settings",
+		"/Users/toledoalbert/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/toledoalbert/Documents/Web Projects/Frameworks/CodeIgniter_2.1.3/application/models/math.php",
+		"/Users/toledoalbert/Documents/Web Projects/Frameworks/CodeIgniter_2.1.3/.htaccess",
+		"/Users/toledoalbert/Documents/Web Projects/Frameworks/CodeIgniter_2.1.3/application/views/home.php",
+		"/Users/toledoalbert/Documents/Web Projects/Frameworks/CodeIgniter_2.1.3/application/controllers/welcome.php",
+		"/Users/toledoalbert/Documents/Web Projects/Frameworks/CodeIgniter_2.1.3/application/config/routes.php",
+		"/Users/toledoalbert/Documents/Web Projects/Frameworks/CodeIgniter_2.1.3/application/controllers/site.php",
+		"/Users/toledoalbert/Documents/Web Projects/Frameworks/CodeIgniter_2.1.3/index.php",
+		"/Users/toledoalbert/Documents/Web Projects/Composer/index.html",
+		"/Users/toledoalbert/Documents/Web Projects/Composer/css/carousel.css",
+		"/Users/toledoalbert/Documents/Web Projects/AFSGD/duyurular/istanbul.html",
+		"/Users/toledoalbert/Documents/Web Projects/AFSGD/carousel.html",
+		"/Users/toledoalbert/Documents/Web Projecs/AFSGD/index.html",
+		"/Users/toledoalbert/Documents/Web Projecs/AFSGD/duyurular/myk.html",
+		"/Users/toledoalbert/Documents/Web Projecs/AFSGD/duyurular/istanbul.html",
+		"/Users/toledoalbert/Documents/Web Projecs/AFSGD/duyurular/izmir.html",
+		"/Users/toledoalbert/Documents/Web Projecs/AFSGD/duyurular/ankara.html",
+		"/Users/toledoalbert/Documents/Web Projecs/AFSGD/css/carousel.css",
+		"/Users/toledoalbert/Documents/Web Projecs/AFSGD/js/bootstrap-carousel.js",
+		"/Users/toledoalbert/Documents/Web Projecs/AFSGD/js/bootstrap-transition.js",
+		"/Users/toledoalbert/Documents/Web Projecs/AFSGD/carousel.html",
+		"/Users/toledoalbert/Documents/Web Projecs/AFSGD/css/tumblr.css",
+		"/Users/toledoalbert/Desktop/bloggr-client/index.html",
+		"/Users/toledoalbert/Desktop/yellowsite/index.php",
+		"/Users/toledoalbert/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/toledoalbert/Desktop/TekkotsuComposer Web/stylesheet.css",
+		"/Users/toledoalbert/Desktop/yellowsite/css/styles.css",
+		"/Users/toledoalbert/Desktop/yellowsite/index.html",
+		"/Users/toledoalbert/Desktop/Windstar FNIS   View Data.html",
+		"/Users/toledoalbert/Desktop/yellowsite/css/foundation.css",
+		"/Users/toledoalbert/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/toledoalbert/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/toledoalbert/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"assets",
+			"…",
+			"#myCarousel",
+			"title",
+			"=\"#\">",
+			"=\"#\">>",
+			"Home",
+			"href=\"#\"",
+			"a",
+			"BASE",
+			"base",
+			"rew",
+			"\";\n",
+			"View details",
+			"my",
+			"car",
+			"carousel",
+			"#m",
+			"carousel",
+			"..",
+			"tumb",
+			"tumblr",
+			"15",
+			">\n",
+			"..",
+			"about",
+			"\"about",
+			"id = \"about",
+			"id=\"about",
+			"about",
+			"link",
+			"<html>\n	<head>\n		<link rel=\"stylesheet\" type=\"text/css\" href=\"stylesheet.css\" title=\"Style\">\n	</head>\n	<body>\n		<h2>\n<font size=\"-1\">\njava.util</font>\n<br>\nClass ArrayList&lt;E&gt;</h2>\n	</body>\n</html>",
+			"gezi",
+			"id=\"gezi",
+			"gezinav",
+			"script",
+			"li",
+			"body"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/controllers/site.php",
+					"settings":
+					{
+						"buffer_size": 649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								351
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 88.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/config/database.php",
+					"settings":
+					{
+						"buffer_size": 3227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2537,
+								2537
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 721.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/views/site_header.php",
+					"settings":
+					{
+						"buffer_size": 509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								361
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 4.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "styles/Bootstrap/css/doc.css",
+					"settings":
+					{
+						"buffer_size": 490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/views/site_footer.php",
+					"settings":
+					{
+						"buffer_size": 1230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								417
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 50.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/views/site_nav.php",
+					"settings":
+					{
+						"buffer_size": 3062,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 52,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										3036,
+										3056
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								2880,
+								2880
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/models/model_get.php",
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"is_xml": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"back",
+				"/Users/toledoalbert/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 129.0,
+	"status_bar_visible": true
+}

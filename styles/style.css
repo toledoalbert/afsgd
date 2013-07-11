@@ -1,0 +1,61 @@
+
+#afs-nav{
+	background-image: linear-gradient(to bottom, #414141, #353535);
+	font-size: 13px;
+}
+
+#afs-nav .divider-vertical{
+	border-left-color: #535353;
+	border-right-color: #222222;
+}
+
+.carousel .item{
+	height: 500px;
+	overflow:hidden;
+}
+
+.carousel img {
+position: absolute;
+top: 0;
+left: 0;
+}
+
+#container{
+	padding-top: 40px;
+}
+
+h1.arrow-down{
+	background: url("http://localhost/AFS/img/divider-arrow-down.png") center bottom no-repeat;
+	padding: 45px 0 50px;
+}
+
+#footer{
+	width: 100%;
+	color: white;
+	padding-top: 20px;
+	background-color: #303030;
+}
+
+#footer a{
+	color: #6e6e6e;
+}
+
+#footer a:hover{
+	color: whitesmoke;
+	text-decoration: none;
+}
+
+#footer-inside{
+	margin: 0 auto;
+	text-align: left;
+	width: 90%;
+}
+
+#footer li{
+	margin-top: 5px;
+}
+
+#footer hr{
+	border-top: 1px solid #5F5F5F;
+	border-bottom: 1px solid #292929;
+}
