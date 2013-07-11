@@ -1,3 +1,4 @@
+<div class="invisible-seperator"></div>
 <div id="footer" class="container"> 
 <div id="footer-inside" class="row-fluid text-center">
         <div class="span12">
@@ -53,13 +54,7 @@
       <hr>
       <div class="row-fluid">
         <div class="span12">
-          <div class="span8">
-            <a href="#">Terms of Service</a>    
-            <a href="#">Privacy</a>    
-            <a href="#">Security</a>
-          </div>
-          <div class="span4">
-            <p class="muted pull-right">© 2013 Company Name. All rights reserved</p>
+            <p class="muted text-center">AFS Gonulluleri Dernegi</p>
           </div>
         </div>
       </div>

@@ -12,29 +12,26 @@
       			</a>
  
       			<!-- Be sure to leave the brand out there if you want it shown -->
-      			<a class="brand" href="#">AFSGD</a>
+      			<a class="brand" href="<?php echo base_url();?>" style="color: #093770;">AFSGD</a>
  
      			 <!-- Everything you want hidden at 940px or less, place within here -->
       			<div class="nav-collapse collapse">
         				
         				<ul class="nav">
-              <li>
-                <a href="#">ANASAYFA</a>
-              </li>
               <li class="divider-vertical"></li>
               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                <a href="<?php echo base_url();?>" class="dropdown-toggle" data-toggle="dropdown">
                   DERNEK <b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu">
                   <li>
-                    <a href="#">HAKKIMIZDA</a>
+                    <a href="<?php echo base_url();?>">HAKKIMIZDA</a>
                   </li>
                   <li>
-                    <a href="#">NASIL UYE OLUNUR?</a>
+                    <a href="<?php echo base_url();?>">NASIL UYE OLUNUR?</a>
                   </li>
                   <li>
-                    <a href="#">MERKEZ YONETIM</a>
+                    <a href="<?php echo base_url();?>">MERKEZ YONETIM</a>
                   </li>
                 </ul>
               </li>
@@ -45,42 +42,42 @@
                 </a>
                 <ul class="dropdown-menu">
                   <li>
-                    <a href="duyurular/myk.html">MYK</a>
+                    <a href="<?php echo base_url();?>site/myk">MYK</a>
                   </li>
                   <li>
-                    <a href="duyurular/istanbul.html">ISTANBUL</a>
+                    <a href="<?php echo base_url();?>site/istanbul">ISTANBUL</a>
                   </li>
                   <li>
-                    <a href="duyurular/izmir.html">IZMIR</a>
+                    <a href="<?php echo base_url();?>site/izmir">IZMIR</a>
                   </li>
                   <li>
-                    <a href="duyurular/ankara.html">ANKARA</a>
+                    <a href="<?php echo base_url();?>site/ankara">ANKARA</a>
                   </li>
                 </ul>
               </li>
               <li class="divider-vertical"></li>
               <li>
-                <a href="#contact">ILETISIM</a>
+                <a href="<?php echo base_url();?>site/iletisim">ILETISIM</a>
               </li>
               <li class="divider-vertical"></li>
               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                <a href="<?php echo base_url();?>site/projeler" class="dropdown-toggle" data-toggle="dropdown">
                   PROJELER <b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu">
                   <li>
-                    <a href="#">KAMPLAR</a>
+                    <a href="<?php echo base_url();?>">KAMPLAR</a>
                   </li>
                   <li>
-                    <a href="#">SHAPEX</a>
+                    <a href="<?php echo base_url();?>">SHAPEX</a>
                   </li>
                   <li>
-                    <a href="#">FEST-I KULT</a>
+                    <a href="<?php echo base_url();?>">FEST-I KULT</a>
                   </li>
                 </ul>
               </li>
             </ul>
-              			<button type="submit" class="btn btn-primary pull-right">Gonullu</button>
+              			<button type="submit" class="btn btn-custom pull-right">Gonullu Portali</button>
             		
       			</div>
  
