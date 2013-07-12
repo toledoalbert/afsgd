@@ -24,7 +24,7 @@ class Site extends CI_Controller {
 
 		$this->load->view("site_header");
 		$this->load->view("site_nav");
-		$this->load->view("view_carousel");
+		$this->load->view("view_carousel2");
 		$this->load->view("view_misyon");
 		$this->load->view("view_divider");
 		$this->load->view("view_subeler");

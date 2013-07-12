@@ -11,6 +11,7 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>styles/Bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>styles/Bootstrap/css/doc.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>styles/style.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>styles/custom-carousel.css">
 
 	
 
