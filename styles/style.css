@@ -1,3 +1,9 @@
+::selection {
+	background: #00C2FF;; /* Safari */
+	}
+::-moz-selection {
+	background: #00C2FF;; /* Firefox */
+}
 
 #afs-nav{
 	background-image: linear-gradient(to bottom, #414141, #353535);
@@ -60,6 +66,14 @@ h1.arrow-down{
 #footer hr{
 	border-top: 1px solid #5F5F5F;
 	border-bottom: 1px solid #292929;
+}
+
+#footer-bottom p{
+	color: #0BA7FF;
+}
+
+#footer-bottom p:hover{
+	color: #0BC4FF;
 }
 
 .invisible-seperator{

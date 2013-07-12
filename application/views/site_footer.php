@@ -53,7 +53,7 @@
       </div>
       <hr>
       <div class="row-fluid">
-        <div class="span12">
+        <div id="footer-bottom" class="span12">
             <p class="muted text-center">AFS Gonulluleri Dernegi</p>
           </div>
         </div>
