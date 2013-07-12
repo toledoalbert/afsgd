@@ -12,7 +12,8 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>styles/Bootstrap/css/doc.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>styles/style.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>styles/custom-carousel.css">
-
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>styles/horizontalNavbarBlue1.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>styles/horizontalNavbarBlue2.css">
 	
 
 </head>

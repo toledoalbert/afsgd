@@ -1,8 +1,10 @@
 ::selection {
 	background: #00C2FF;; /* Safari */
+	color: white;
 	}
 ::-moz-selection {
 	background: #00C2FF;; /* Firefox */
+	color: white;
 }
 
 #afs-nav{
@@ -80,4 +82,12 @@ h1.arrow-down{
 .invisible-seperator{
 	margin-top: 50px;
 	margin-bottom: 50px;
+}
+
+.btn-primary{
+	background-image: linear-gradient(to bottom, #0088cc, #007ACC);
+}
+
+.btn-primary:hover{
+	background-color: #067FC4;
 }

@@ -1,7 +1,7 @@
-<div id="myCarousel" class="carousel slide">
+<div id="myCarousel" class="carousel slide" style="z-index:0;">
       <div class="carousel-inner">
         <div class="item active">
-          <img src="<?php echo base_url(); ?>/img/ofis.jpg" alt="">
+          <img src="<?php echo base_url(); ?>img/ofis.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
               <h1>Example headline.</h1>
@@ -11,7 +11,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="<?php echo base_url(); ?>/img/kamp.jpg" alt="">
+          <img src="<?php echo base_url(); ?>img/kamp.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
               <h1>Another example headline.</h1>
@@ -21,11 +21,11 @@
           </div>
         </div>
         <div class="item">
-          <img src="<?php echo base_url(); ?>/img/dunya.jpg" alt="">
+          <img src="<?php echo base_url(); ?>img/dunya.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
-              <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <h1 style="color: black;" >One more for good measure.</h1>
+              <p style="color: black;" class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
               <a class="btn btn-large btn-primary" href="#">Browse gallery</a>
             </div>
           </div>
