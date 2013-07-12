@@ -12,7 +12,7 @@
       			</a>
  
       			<!-- Be sure to leave the brand out there if you want it shown -->
-      			<a class="brand" href="<?php echo base_url();?>" style="color: #093770;">AFSGD</a>
+      			<a class="brand" href="<?php echo base_url();?>" style="color: #0BA7FF;">AFSGD</a>
  
      			 <!-- Everything you want hidden at 940px or less, place within here -->
       			<div class="nav-collapse collapse">
