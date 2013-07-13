@@ -1,15 +1,15 @@
 <nav id="cbp-hrmenu" class="cbp-hrmenu">
 					<div class="nav-right">
-						<a href="#"><button class="btn btn-primary">Gonullu Portali</button></a>
+						<button type="submit" class="btn btn-primary">Gonullu Portali</button>
 					</div>
 					<ul style="position: relative; z-index: 1;">
-						<li><a style="padding-left: 40px;" class="brand" href="#">AFSGD</a></li>
+						<li><a style="padding-left: 40px;" class="brand" href="<?php echo base_url(); ?>">AFSGD</a></li>
 						<li>
 							<a href="#">Dernek</a>
 							<div class="cbp-hrsub">
 								<div class="cbp-hrsub-inner"> 
 									<div>
-										<a>Hakkimizda<a>
+										<a href="<?php echo base_url();?>site/hakkimizda">Hakkimizda<a>
 									</div>
 									<div>
 										<a>Nasil Uye Olunur?</a>
@@ -21,68 +21,43 @@
 							</div><!-- /cbp-hrsub -->
 						</li>
 						<li>
-							<a href="#">Downloads</a>
+							<a href="#">Duyurular</a>
 							<div class="cbp-hrsub">
 								<div class="cbp-hrsub-inner"> 
 									<div>
-										<a>Hakkimizda<a>
+										<a>Merkezi Yonetim Kurulu<a>
 									</div>
 									<div>
-										<a>Nasil Uye Olunur?</a>
+										<a>Istanbul Subesi</a>
 									</div>
 									<div>
-										<a>Merkezi Yonetim</a>
+										<a>Ankara Subesi</a>
+									</div>
+									<div>
+										<a>Izmir Subesi</a>
 									</div>
 								</div><!-- /cbp-hrsub-inner -->
 							</div><!-- /cbp-hrsub -->
 						</li>
 						<li>
-							<a href="#">Applications</a>
-							<div class="cbp-hrsub">
-								<div class="cbp-hrsub-inner"> 
-									<div>
-										<a>Hakkimizda<a>
-									</div>
-									<div>
-										<a>Nasil Uye Olunur?</a>
-									</div>
-									<div>
-										<a>Merkezi Yonetim</a>
-									</div>
-								</div><!-- /cbp-hrsub-inner -->
-							</div><!-- /cbp-hrsub -->
+							<a href="#">Iletisim</a>
 						</li>
 						<li>
-							<a href="#">Projects</a>
+							<a href="#">Projeler</a>
 							<div class="cbp-hrsub">
 								<div class="cbp-hrsub-inner"> 
 									<div>
-										<a>Hakkimizda<a>
+										<a>Kamplar<a>
 									</div>
 									<div>
-										<a>Nasil Uye Olunur?</a>
+										<a>Shapex</a>
 									</div>
 									<div>
-										<a>Merkezi Yonetim</a>
+										<a>Fest-i Kult</a>
 									</div>
 								</div><!-- /cbp-hrsub-inner -->
 							</div><!-- /cbp-hrsub -->
 						</li>
-						<li>
-							<a href="#">Freeware</a>
-							<div class="cbp-hrsub">
-								<div class="cbp-hrsub-inner"> 
-									<div>
-										<a>Hakkimizda<a>
-									</div>
-									<div>
-										<a>Nasil Uye Olunur?</a>
-									</div>
-									<div>
-										<a>Merkezi Yonetim</a>
-									</div>
-								</div><!-- /cbp-hrsub-inner -->
-							</div><!-- /cbp-hrsub -->
-						</li>
+
 					</ul>
 				</nav>

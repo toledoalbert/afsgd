@@ -42,17 +42,17 @@ h1.arrow-down{
 	color: white;
 	padding-top: 40px;
 	margin-top: 50px;
-	background-color: #303030;
+	background-color: #00ADFF;
 	margin-top: 20px;
 	/*background: #303030 url("http://localhost/AFS/img/logo-footer.jpg") right center no-repeat;*/
 }
 
 #footer a{
-	color: #6e6e6e;
+	color: white;
 }
 
 #footer a:hover{
-	color: whitesmoke;
+	color: #FFC200;
 	text-decoration: none;
 }
 
@@ -67,16 +67,16 @@ h1.arrow-down{
 }
 
 #footer hr{
-	border-top: 1px solid #5F5F5F;
-	border-bottom: 1px solid #292929;
+	border-top: 1px solid #007AFF;
+	border-bottom: 1px solid #00D6FF;
 }
 
 #footer-bottom p{
-	color: #0BA7FF;
+	color: white;
 }
 
 #footer-bottom p:hover{
-	color: #0BC4FF;
+	color: white;
 }
 
 .invisible-seperator{
@@ -93,7 +93,10 @@ h1.arrow-down{
 }
 
 .nav-right{
-	float: right;
+	right: 30px;
+	position: absolute;
+	z-index: 2;
+	/*float: right;*/
 	padding-top: 10px;
 	padding-bottom: 10px;
 	padding-right: 10px;

@@ -38,7 +38,7 @@
           <div class="span2" style="width: 15%;">
             <ul class="unstyled">
               <li>Sosyal Medya</li>
-              <li><a style="color: #0099FF;" href="http://facebook.com/AFSGD">Facebook</a><li>
+              <li><a style="color: #3464FF;" href="http://facebook.com/AFSGD">Facebook</a><li>
               <li><a style="color: #00D3F0;" href="http://twitter.com/AFSGD">Twitter</a></li> 
               <li><a style="color: #DF0101;" href="http://youtube.com/AFSGonulluleriDer">Youtube</a></li>             
             </ul>

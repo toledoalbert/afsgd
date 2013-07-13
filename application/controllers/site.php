@@ -22,10 +22,17 @@ class Site extends CI_Controller {
 		$this->load->view("site_footer"); 
 		*/
 
+		$misyon = array(
+               'backgroundImage' => '',
+               'header' => 'Misyonumuz',
+               'caption' => 'AFS Gonulluleri Dernegi dunya barisi adina hizmet vermektedir! <br> Blah blah blah!',
+               'arrowDown' => true
+          );
+
 		$this->load->view("site_header");
 		$this->load->view("horBlue_nav");
 		$this->load->view("view_carousel2");
-		$this->load->view("view_misyon");
+		$this->load->view("view_baslikYazi", $misyon);
 		$this->load->view("view_divider");
 		$this->load->view("view_subeler");
 		$this->load->view("site_footer"); 
@@ -35,9 +42,17 @@ class Site extends CI_Controller {
 	//Hakkimizda sayfasi
 	public function hakkimizda(){
 
+		$hakkimizda = array(
+               'backgroundImage' => '',
+               'header' => 'Hakkimizda',
+               'caption' => 'AFS Gonulluleri Dernegi dunya <br> barisi adina hizmet vermektedir! <br> Blah blah blah! <br> blahblah blah',
+               'arrowDown' => true
+          );
+
 		$this->load->view("site_header");
-		$this->load->view("site_nav");
-		$this->load->view("site_footer");
+		$this->load->view("horBlue_nav");
+		$this->load->view("view_baslikYazi", $hakkimizda);
+		$this->load->view("site_footer"); 
 
 
 	}
