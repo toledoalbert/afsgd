@@ -91,3 +91,17 @@ h1.arrow-down{
 .btn-primary:hover{
 	background-color: #067FC4;
 }
+
+.nav-right{
+	float: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	/*border-left: 1px solid;*/
+}
+
+.brand{
+	background: url(http://localhost/AFS/img/logo.jpg) no-repeat;
+	padding-left: 50px;
+	margin-left: 30px;
+}

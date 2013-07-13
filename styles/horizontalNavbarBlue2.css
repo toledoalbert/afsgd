@@ -1,6 +1,5 @@
 .cbp-hrmenu {
 	width: 100%;
-	margin-top: 2em;
 	border-bottom: 4px solid #47a3da;
 }
 
@@ -14,10 +13,8 @@
 /* first level ul style */
 .cbp-hrmenu > ul,
 .cbp-hrmenu .cbp-hrsub-inner {
-	width: 90%;
-	max-width: 70em;
+	width: 100%;
 	margin: 0 auto;
-	padding: 0 1.875em;
 }
 
 .cbp-hrmenu > ul > li {
@@ -52,11 +49,11 @@
 
 .cbp-hropen .cbp-hrsub {
 	display: block;
-	padding-bottom: 3em;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .cbp-hrmenu .cbp-hrsub-inner > div {
-	width: 33%;
 	float: left;
 	padding: 0 2em 0;
 }
@@ -137,6 +134,10 @@
 		float: none;
 		padding: 0 2em;
 	}
+}
+
+a:hover{
+	text-decoration: none;
 }
 
 
