@@ -1,6 +1,6 @@
 <nav id="cbp-hrmenu" class="cbp-hrmenu">
 					<div class="nav-right">
-						<button type="submit" class="btn btn-primary">Gonullu Portali</button>
+						<a href="<?php echo base_url();?>portal"> <button type="submit" class="btn btn-primary">Gonullu Portali</button></a>
 					</div>
 					<ul style="position: relative; z-index: 1;">
 						<li><a style="padding-left: 40px;" class="brand" href="<?php echo base_url(); ?>">AFSGD</a></li>
@@ -9,13 +9,13 @@
 							<div class="cbp-hrsub">
 								<div class="cbp-hrsub-inner"> 
 									<div>
-										<a href="<?php echo base_url();?>site/hakkimizda">Hakkimizda<a>
+										<a href="<?php echo base_url();?>hakkimizda">Hakkimizda<a>
 									</div>
 									<div>
-										<a>Nasil Uye Olunur?</a>
+										<a href="<?php echo base_url();?>nasiluyeolunur">Nasil Uye Olunur?</a>
 									</div>
 									<div>
-										<a>Merkezi Yonetim</a>
+										<a href="<?php echo base_url();?>myk">Merkezi Yonetim</a>
 									</div>
 								</div><!-- /cbp-hrsub-inner -->
 							</div><!-- /cbp-hrsub -->
@@ -25,16 +25,16 @@
 							<div class="cbp-hrsub">
 								<div class="cbp-hrsub-inner"> 
 									<div>
-										<a>Merkezi Yonetim Kurulu<a>
+										<a href="<?php echo base_url();?>duyurular">Merkezi Yonetim Kurulu<a>
 									</div>
 									<div>
-										<a>Istanbul Subesi</a>
+										<a href="<?php echo base_url();?>istanbul">Istanbul Subesi</a>
 									</div>
 									<div>
-										<a>Ankara Subesi</a>
+										<a href="<?php echo base_url();?>ankara">Ankara Subesi</a>
 									</div>
 									<div>
-										<a>Izmir Subesi</a>
+										<a href="<?php echo base_url();?>izmir">Izmir Subesi</a>
 									</div>
 								</div><!-- /cbp-hrsub-inner -->
 							</div><!-- /cbp-hrsub -->
@@ -43,17 +43,17 @@
 							<a href="#">Iletisim</a>
 						</li>
 						<li>
-							<a href="#">Projeler</a>
+							<a href="<?php echo base_url();?>projeler">Projeler</a>
 							<div class="cbp-hrsub">
 								<div class="cbp-hrsub-inner"> 
 									<div>
-										<a>Kamplar<a>
+										<a href="<?php echo base_url();?>kamplar">Kamplar<a>
 									</div>
 									<div>
-										<a>Shapex</a>
+										<a href="<?php echo base_url();?>shapex">Shapex</a>
 									</div>
 									<div>
-										<a>Fest-i Kult</a>
+										<a href="<?php echo base_url();?>festikult">Fest-i Kult</a>
 									</div>
 								</div><!-- /cbp-hrsub-inner -->
 							</div><!-- /cbp-hrsub -->

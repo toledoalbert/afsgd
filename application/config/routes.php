@@ -40,6 +40,7 @@
 
 $route['default_controller'] = "site";
 $route['404_override'] = '';
+$route['(:any)'] = "site/$1";
 
 
 /* End of file routes.php */
