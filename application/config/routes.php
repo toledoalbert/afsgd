@@ -39,7 +39,7 @@
 */
 
 $route['default_controller'] = "site";
-$route['404_override'] = '';
+$route['404_override'] = 'AFS404';
 $route['(:any)'] = "site/$1";
 
 
