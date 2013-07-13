@@ -17,6 +17,15 @@
 									<div>
 										<a href="<?php echo base_url();?>myk">Merkezi Yonetim</a>
 									</div>
+									<div>
+										<a href="<?php echo base_url();?>ist">Istanbul</a>
+									</div>
+									<div>
+										<a href="<?php echo base_url();?>ank">Ankara</a>
+									</div>
+									<div>
+										<a href="<?php echo base_url();?>izm">Izmir</a>
+									</div>
 								</div><!-- /cbp-hrsub-inner -->
 							</div><!-- /cbp-hrsub -->
 						</li>
