@@ -1,11 +1,11 @@
 <div id="myCarousel" class="carousel slide" style="z-index:0;">
       <div class="carousel-inner">
         <div class="item active">
-          <img src="<?php echo base_url(); ?>img/afslogo.jpg" alt="">
+          <img src="<?php echo base_url(); ?>img/dunyakafa.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1 style="color: black;">AFS Turkiye</h1>
-              <p style="color: black;" class="lead">degisim programlarini gonullulerimiz ile gerceklestiriyoruz.</p>
+              <h1>AFS Turkiye</h1>
+              <p class="lead">degisim programlarini gonullulerimiz ile gerceklestiriyoruz.</p>
               <a class="btn btn-large btn-primary" href="#">Gonullu ol!</a>
             </div>
           </div>
