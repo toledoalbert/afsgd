@@ -4,7 +4,7 @@
 	<?php 
 
 		if($backgroundImage !== ""){
-			echo 'style="background-image: url('.$backgroundImage.');"';
+			echo 'style="background: url('.$backgroundImage.')'.$repeat.'; padding-bottom:250px;"';
 		}
 
 	?>

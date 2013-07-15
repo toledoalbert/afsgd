@@ -21,11 +21,11 @@
           </div>
         </div>
         <div class="item">
-          <img src="<?php echo base_url(); ?>img/dunya.jpg" alt="">
+          <img src="<?php echo base_url(); ?>img/ilovevol.jpg" alt="">
           <div class="container">
-            <div class="carousel-caption">
-              <h1 style="color: black;" >One more for good measure.</h1>
-              <p style="color: black;" class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+            <div class="carousel-caption" style="padding-left: 800px; width: 400px;">
+              <h1>One more for good measure.</h1>
+              <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
               <a class="btn btn-large btn-primary" href="#">Browse gallery</a>
             </div>
           </div>
