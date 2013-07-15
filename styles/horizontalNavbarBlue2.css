@@ -1,6 +1,7 @@
 .cbp-hrmenu {
 	width: 100%;
-	border-bottom: 4px solid #47a3da;
+	border-bottom: 4px solid #EBA900;
+	background-color: #ECECEC;
 }
 
 /* general ul style */
@@ -15,10 +16,12 @@
 .cbp-hrmenu .cbp-hrsub-inner {
 	width: 100%;
 	margin: 0 auto;
+	font-weight: lighter;
 }
 
 .cbp-hrmenu > ul > li {
 	display: inline-block;
+	border-right: 1px solid rgb(219, 219, 219);
 }
 
 .cbp-hrmenu > ul > li > a {
@@ -26,6 +29,7 @@
 	padding: 1em 2em;
 	color: #999;
 	display: inline-block;
+	font-weight: lighter;
 }
 
 .cbp-hrmenu > ul > li > a:hover {
@@ -35,14 +39,14 @@
 .cbp-hrmenu > ul > li.cbp-hropen a,
 .cbp-hrmenu > ul > li.cbp-hropen > a:hover {
 	color: #fff;
-	background: #47a3da;
+	background: #EBA900;
 }
 
 /* sub-menu */
 .cbp-hrmenu .cbp-hrsub {
 	display: none;
 	position: absolute;
-	background: #47a3da;
+	background: #EBA900;
 	width: 100%;
 	left: 0;
 }

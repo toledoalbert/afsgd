@@ -1,5 +1,5 @@
 <div class="invisible-seperator"></div>
-<div id="footer" class="container"> 
+<div id="footer" class="container visible-desktop"> 
 <div id="footer-inside" class="row-fluid text-center">
         <div class="span12">
           <div class="span2" style="width: 15%;">

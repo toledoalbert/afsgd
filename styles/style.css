@@ -42,8 +42,10 @@ h1.arrow-down{
 	color: white;
 	padding-top: 40px;
 	margin-top: 50px;
-	background-color: #0088cc;
+	background-color: #3D3D3D;
 	margin-top: 20px;
+	border-top: 4px solid rgb(255, 163, 0);
+	font-weight: lighter;
 	/*background: #303030 url("http://localhost/AFS/img/logo-footer.jpg") right center no-repeat;*/
 }
 
@@ -67,8 +69,8 @@ h1.arrow-down{
 }
 
 #footer hr{
-	border-top: 1px solid #007AFF;
-	border-bottom: 1px solid #1692CC;
+	border-top: 1px solid #2B2B2B;
+	border-bottom: 1px solid #4E4E4E;
 }
 
 #footer-bottom p{

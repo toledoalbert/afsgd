@@ -103,7 +103,7 @@ class Site extends CI_Controller {
 	}
 
 	//myk duyurulari
-	public function duyurular(){
+	public function merkez(){
 		
 		$data = array(
                'url' => 'myk',

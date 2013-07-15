@@ -1,6 +1,6 @@
 <nav id="cbp-hrmenu" class="cbp-hrmenu">
 					<div class="nav-right">
-						<a href="<?php echo base_url();?>portal"> <button type="submit" class="btn btn-primary">Gonullu Portali</button></a>
+						<a href="<?php echo base_url();?>portal"> <button type="submit" class="btn btn-success">Gonullu Portali</button></a>
 					</div>
 					<ul style="position: relative; z-index: 1;">
 						<li><a style="padding-left: 40px; color: #0088cc;" class="brand" href="<?php echo base_url(); ?>">AFSGD</a></li>
@@ -34,7 +34,7 @@
 							<div class="cbp-hrsub">
 								<div class="cbp-hrsub-inner"> 
 									<div>
-										<a href="<?php echo base_url();?>duyurular">Merkezi Yonetim Kurulu<a>
+										<a href="<?php echo base_url();?>merkez">Merkezi Yonetim Kurulu<a>
 									</div>
 									<div>
 										<a href="<?php echo base_url();?>istanbul">Istanbul</a>
