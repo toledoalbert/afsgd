@@ -3,7 +3,7 @@
 						<a href="<?php echo base_url();?>portal"> <button type="submit" class="btn btn-success">Gonullu Portali</button></a>
 					</div>
 					<ul style="position: relative; z-index: 1;">
-						<li><a style="padding-left: 40px; color: #0088cc;" class="brand" href="<?php echo base_url(); ?>">AFSGD</a></li>
+						<li><a style=" color: #0088cc; font-weight: bold;" href="<?php echo base_url(); ?>">AFSGD</a></li>
 						<li>
 							<a href="#">Dernek</a>
 							<div class="cbp-hrsub">
