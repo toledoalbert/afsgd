@@ -23,7 +23,7 @@ class Site extends CI_Controller {
 		*/
 
 		$misyon = array(
-               'backgroundImage' => 'http://localhost/AFS/img/copadamlar.jpg',
+               'backgroundImage' => base_url().'/img/copadamlar.jpg',
                'repeat' => 'bottom repeat-x;',
                'header' => 'Misyonumuz',
                'caption' => 'AFS Gonulluleri Dernegi dunya barisi adina hizmet vermektedir! <br> Blah blah blah!',
