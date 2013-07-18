@@ -7,28 +7,16 @@
       <div class="span4">
         <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?php echo base_url();?>img/ist2.jpg">
         <h2>Istanbul</h2>
-        <p>Istanbulda kamp basladi.</p>
-        <p>
-          <a class="btn" href="#">Devam...</a>
-        </p>
       </div>
       <!-- /.span4 -->
       <div class="span4">
         <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?php echo base_url();?>img/izmir1.jpg">
         <h2>Izmir</h2>
-        <p>Izmir</p>
-        <p>
-          <a class="btn" href="#">Devam...</a>
-        </p>
       </div>
       <!-- /.span4 -->
       <div class="span4">
         <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?php echo base_url();?>img/ankara1.jpg">
         <h2>Ankara</h2>
-        <p>Ankaranli turgut</p>
-        <p>
-          <a class="btn" href="#">Devam...</a>
-        </p>
       </div>
       <!-- /.span4 --> </div>
   </div>
