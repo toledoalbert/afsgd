@@ -119,5 +119,40 @@ class Site extends CI_Controller {
 		
 	}
 
+	//projeler
+	//ika
+	public function ika(){
+
+		$ika = array(
+               'backgroundImage' => '',
+               'repeat' => '',
+               'header' => 'Istanbul Kultur Avi',
+               'caption' => 'Hey siz, İstanbul’lular! İstanbul’un her yerini bildiğini düşünenler! <br>
+               				Evet evet sizden bahsediyoruz. Kültür beşiği olan İstanbul’u karış karış bildiğinizi mi düşünüyorsunuz? <br>
+               				Sultanahmet’ten başlayarak Beyoğlu’nu arşınlayarak İstiklal caddesini geçerken tarihin kokusunu alırım, <br>
+               				baktığımda İstanbul’un üzerine kurulduğu kültürü görürüm diyorsanız ya da İstanbul neden kültür başkenti <br>
+               				seçilmişti diye düşünüyorsanız... Geçip giderken şehrin acaba göremediğim neleri var diyorsanız, <br>
+               				sizler için İstanbul Kültür Avı’ımız var. <br>
+               				<br>
+							Gelin, yaşadığımız bu güzel şehri, tarih boyunca değişirken aynı kalmış parçalarını keşfedelim. <br>
+							Keşfederken öğrenelim. <br>
+							Modern kültür olarak neler katmışız düşünelim. Kültürel yapbozumuzun bazı parçalarını beraber <br>
+							yerleştirelim ve hep beraber eğlenirken arkadaşlarımızla yarışmanın tadını çıkaralım. <br>
+							<br>
+							“Yaşadığımız, doğup büyüdüğümüz kültürü ne kadar iyi tanıyoruz?” sorusunun cevabını el ele bulalım! <br>
+							Haydi ne bekliyorsunuz ? <br>
+							İstanbul Kültür Avı\'na siz de katılın!',
+               
+               'arrowDown' => true,
+               'img' => 'img/ika.jpg'
+          );
+
+		$this->load->view("site_header");
+		$this->load->view("horBlue_nav");
+		$this->load->view("view_picture", $ika);
+		$this->load->view("view_baslikYazi", $ika);
+		$this->load->view("site_footer"); 
+	}
+
 
 }
