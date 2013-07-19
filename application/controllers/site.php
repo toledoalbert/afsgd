@@ -154,5 +154,43 @@ class Site extends CI_Controller {
 		$this->load->view("site_footer"); 
 	}
 
+	//ika
+	public function gulenCocuk(){
+
+		$ika = array(
+               'backgroundImage' => '',
+               'repeat' => '',
+               'header' => 'Gulen Cocuk Senligi',
+               'caption' => 'Ulusal ve uluslararası engelli çocuk kuruluşlarının temsilcileri ve üyeleri, <br>
+               				ülkemizdeki çocuklar ve aileleri ile organizasyon için ülkemize gelen çocuklar ve <br>
+               				refakatçilerinin katıldığı Uluslararası Gülen Çocuk Şenliği\'nin amacı; ulusal <br>
+               				ve uluslararası engelli-engelsiz çocukları bir araya getirerek “eşit yaşam <br>
+               				haklarının önündeki engellerin kaldırılması” mesajını tüm kamuoyuna duyurmaları <br>
+               				sağlamaktadır.<br>
+
+							Uluslararası Gülen Çocuk Şenliği ilk yılından itibaren 6 sene boyunca <br>
+							AFS Gönüllüleri Derneği  ve Türkiye Omurilik Felçlileri Derneği <br>
+							ortaklığıyla yapılmıştır. Her yıl turuncu tişörtlü gönüllülerimiz <br>
+							ile yer aldığımız etkinlik 23 Nisan haftası döneminde gerçekleşmektedir.',
+               
+               'arrowDown' => true,
+               'img' => 'img/gulenc.jpg'
+          );
+
+		$this->load->view("site_header");
+		$this->load->view("horBlue_nav");
+		//$this->load->view("view_picture", $ika);
+		$this->load->view("view_baslikYazi", $ika);
+		$this->load->view("site_footer"); 
+	}
+
+	public function merkezYonetim(){
+
+		$this->load->view("site_header");
+		$this->load->view("horBlue_nav");
+		$this->load->view("view_myk");
+		$this->load->view("site_footer"); 
+	}
+
 
 }
