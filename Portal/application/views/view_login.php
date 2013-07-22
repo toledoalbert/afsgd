@@ -1,17 +1,19 @@
 <div class="container">
-	<div class="row">
+
+	<div class="row" style="margin-top:10%;">
 		<div class="span4 offset4 well">
-			<legend>Please Sign In</legend>
+			<img src="<?php echo base_url(); ?>/img/portalLogo.png" />
+			<legend>Uye Girisi</legend>
           	<div class="alert alert-error">
                 <a class="close" data-dismiss="alert" href="#">×</a>Incorrect Username or Password!
             </div>
 			<form method="POST" action="" accept-charset="UTF-8">
-			<input type="text" id="username" class="span4" name="username" placeholder="Username">
-			<input type="password" id="password" class="span4" name="password" placeholder="Password">
+			<input type="text" id="username" class="span4" name="username" placeholder="E-posta">
+			<input type="password" id="password" class="span4" name="password" placeholder="Sifre">
             <label class="checkbox">
-            	<input type="checkbox" name="remember" value="1"> Remember Me
+            	<input type="checkbox" name="remember" value="1"> Beni Hatirla
             </label>
-			<button type="submit" name="submit" class="btn btn-info btn-block">Sign in</button>
+			<button type="submit" name="submit" class="btn btn-info btn-block">Giris</button>
 			</form>    
 		</div>
 	</div>
