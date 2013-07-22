@@ -1,0 +1,112 @@
+::selection {
+	background: #00C2FF;; /* Safari */
+	color: white;
+	}
+::-moz-selection {
+	background: #00C2FF;; /* Firefox */
+	color: white;
+}
+
+#afs-nav{
+	background-image: linear-gradient(to bottom, #414141, #353535);
+	font-size: 13px;
+}
+
+#afs-nav .divider-vertical{
+	border-left-color: #535353;
+	border-right-color: #222222;
+}
+
+.carousel .item{
+	height: 500px;
+	overflow:hidden;
+}
+
+.carousel img {
+position: absolute;
+top: 0;
+left: 0;
+}
+
+#container{
+	padding-top: 40px;
+}
+
+h1.arrow-down{
+	background: url("http://localhost/AFS/img/divider-arrow-down.png") center bottom no-repeat;
+	padding: 45px 0 50px;
+}
+
+#footer{
+	width: 100%;
+	color: white;
+	padding-top: 40px;
+	margin-top: 50px;
+	background-color: #3D3D3D;
+	margin-top: 20px;
+	border-top: 4px solid rgb(255, 163, 0);
+	font-weight: lighter;
+	/*background: #303030 url("http://localhost/AFS/img/logo-footer.jpg") right center no-repeat;*/
+}
+
+#footer a{
+	color: white;
+}
+
+#footer a:hover{
+	color: #FFC200;
+	text-decoration: none;
+}
+
+#footer-inside{
+	margin: 0 auto;
+	text-align: left;
+	width: 90%;
+}
+
+#footer li{
+	margin-top: 5px;
+}
+
+#footer hr{
+	border-top: 1px solid #2B2B2B;
+	border-bottom: 1px solid #4E4E4E;
+}
+
+#footer-bottom p{
+	color: white;
+}
+
+#footer-bottom p:hover{
+	color: white;
+}
+
+.invisible-seperator{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.btn-primary{
+	background-image: linear-gradient(to bottom, #0088cc, #007ACC);
+}
+
+.btn-primary:hover{
+	background-color: #067FC4;
+}
+
+.nav-right{
+	right: 30px;
+	position: absolute;
+	z-index: 2;
+	/*float: right;*/
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	/*border-left: 1px solid;*/
+}
+
+.brand{
+	background: url(http://localhost/AFS/img/logo.jpg) left bottom no-repeat;
+	padding-left: 50px;
+	margin-left: 30px;
+}

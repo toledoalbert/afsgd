@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://alberttoledo.com/AFS/Portal';
+$config['base_url']	= '/AFS/Portal';
 
 /*
 |--------------------------------------------------------------------------

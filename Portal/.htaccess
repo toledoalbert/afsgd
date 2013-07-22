@@ -67,7 +67,7 @@ DirectoryIndex index.php
 
   # If your application is at http://www.domain.tld/ (or is http://localhost/)
   # then uncomment the following line.
-  RewriteBase /AFSGD/
+  RewriteBase /AFS/Portal
 
   #-----------------------------------------------------------------------------
   # The following 2 lines will force a [url=http://www.prefix]www.prefix[/url].  If you want to make sure
