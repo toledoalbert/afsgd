@@ -1,0 +1,14 @@
+/portal
+
+	/Signup
+	/Login
+	/Home
+	/Profile
+		/Edit
+	/Materyaller
+		/Materyallerim
+	/Projeler
+		/Projelerim
+	/Etkinlikler
+		/Etkinliklerim
+	/Gonulluler

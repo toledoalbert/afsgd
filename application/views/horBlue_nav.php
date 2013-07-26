@@ -9,22 +9,16 @@
 							<div class="cbp-hrsub">
 								<div class="cbp-hrsub-inner"> 
 									<div>
-										<a href="<?php echo base_url();?>hakkimizda">Hakkimizda<a>
+										<a href="<?php echo base_url();?>hakkimizda">Hakkımızda<a>
 									</div>
 									<div>
-										<a href="<?php echo base_url();?>nasiluyeolunur">Nasil Uye Olunur?</a>
+										<a href="<?php echo base_url();?>kurulus">Kuruluş Hikayesi</a>
 									</div>
 									<div>
-										<a href="<?php echo base_url();?>myk">Merkezi Yonetim</a>
+										<a href="<?php echo base_url();?>myk">Merkez Yönetim Kurulu</a>
 									</div>
 									<div>
-										<a href="<?php echo base_url();?>ist">Istanbul Subesi</a>
-									</div>
-									<div>
-										<a href="<?php echo base_url();?>ank">Ankara Subesi</a>
-									</div>
-									<div>
-										<a href="<?php echo base_url();?>izm">Izmir Subesi</a>
+										<a href="<?php echo base_url();?>nasil">Nasıl Üye Olunur?</a>
 									</div>
 								</div><!-- /cbp-hrsub-inner -->
 							</div><!-- /cbp-hrsub -->
@@ -34,38 +28,53 @@
 							<div class="cbp-hrsub">
 								<div class="cbp-hrsub-inner"> 
 									<div>
-										<a href="<?php echo base_url();?>merkez">Merkezi Yonetim Kurulu<a>
+										<a href="<?php echo base_url();?>merkez">Merkez Yönetim Kurulu<a>
 									</div>
 									<div>
-										<a href="<?php echo base_url();?>istanbul">Istanbul</a>
+										<a href="<?php echo base_url();?>ankara">Ankara Şubesi</a>
 									</div>
 									<div>
-										<a href="<?php echo base_url();?>ankara">Ankara</a>
+										<a href="<?php echo base_url();?>istanbul">İstanbul Şubesi</a>
 									</div>
 									<div>
-										<a href="<?php echo base_url();?>izmir">Izmir</a>
+										<a href="<?php echo base_url();?>izmir">İzmir Şubesi</a>
+									</div>
+									<div>
+										<a href="<?php echo base_url();?>haberler">Haberler</a>
 									</div>
 								</div><!-- /cbp-hrsub-inner -->
 							</div><!-- /cbp-hrsub -->
 						</li>
 						<li>
-							<a href="#">Iletisim</a>
-						</li>
-						<li>
-							<a href="<?php echo base_url();?>projeler">Projeler</a>
+							<a href="#">Projeler ve Etkinlikler</a>
 							<div class="cbp-hrsub">
 								<div class="cbp-hrsub-inner"> 
 									<div>
-										<a href="<?php echo base_url();?>kamplar">Kamplar<a>
+										<a href="<?php echo base_url();?>afsd">AFS'D<a>
 									</div>
 									<div>
-										<a href="<?php echo base_url();?>shapex">Shapex</a>
+										<a href="<?php echo base_url();?>aka">Ankara Kültür Avı</a>
 									</div>
 									<div>
-										<a href="<?php echo base_url();?>festikult">Fest-i Kult</a>
+										<a href="<?php echo base_url();?>chapex">Chapex</a>
+									</div>
+									<div>
+										<a href="<?php echo base_url();?>festikult">Fest-i Kült</a>
+									</div>
+									<div>
+										<a href="<?php echo base_url();?>gulencocuk">Gülen Çocuk Festivali</a>
+									</div>
+									<div>
+										<a href="<?php echo base_url();?>ika">İstanbul Kültur Avı</a>
+									</div>
+									<div>
+										<a href="<?php echo base_url();?>kamplar">Oryantasyon Kampları</a>
 									</div>
 								</div><!-- /cbp-hrsub-inner -->
 							</div><!-- /cbp-hrsub -->
+						</li>
+						<li>
+							<a href="<?php echo base_url();?>iletisim">Iletisim</a>
 						</li>
 
 					</ul>
