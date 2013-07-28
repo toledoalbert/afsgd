@@ -343,7 +343,16 @@ class Site extends CI_Controller {
                'backgroundImage' => '',
                'repeat' => '',
                'header' => 'Nasıl Üye Olunur',
-               'caption' => '',
+               'caption' => 'Nasıl üye olunur?
+
+							AFSGD üyesi olmak için <br><br>
+							2 adet vesikalık fotoğrafını, <br>
+							üye başvuru formunu <br>
+							ve 10 TL üyelik giriş ücretini <br> <br>
+							bize iletmen yeterlidir. <br>
+							Üyelik aidatı yıllık 30 TL’dir. <br>
+							Her türlü sorularınız için bize iletişim sayfamızda <br>
+							yer alan bilgilerden ulaşabilirsiniz.',
                
                'arrowDown' => true,
                'img' => 'img/nasil.jpg'

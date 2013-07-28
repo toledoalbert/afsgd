@@ -6,7 +6,7 @@
             <div class="carousel-caption">
               <h1>AFS Turkiye</h1>
               <p class="lead">degisim programlarini gonullulerimiz ile gerceklestiriyoruz.</p>
-              <a class="btn btn-large btn-primary" href="#">Gonullu ol!</a>
+              <a class="btn btn-large btn-primary" href="<?php echo base_url(); ?>/nasil">Gonullu ol!</a>
             </div>
           </div>
         </div>
@@ -14,9 +14,9 @@
           <img src="<?php echo base_url(); ?>img/kamp.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <a class="btn btn-large btn-primary" href="#">Learn more</a>
+              <h1>Oryantasyon Dönemi</h1>
+              <p class="lead">Her sene olduğu gibi bu yaz da oryantasyon kamplarımız tüm hızıyla sürüyorç</p>
+              <a class="btn btn-large btn-primary" href="<?php echo base_url(); ?>/kamplar">Kamplar</a>
             </div>
           </div>
         </div>
@@ -24,9 +24,9 @@
           <img src="<?php echo base_url(); ?>img/ilovevol.jpg" alt="">
           <div class="container">
             <div class="carousel-caption" style="padding-left: 800px; width: 400px;">
-              <h1>One more for good measure.</h1>
-              <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <a class="btn btn-large btn-primary" href="#">Browse gallery</a>
+              <h1>Gelin bize katılın!</h1>
+              <p class="lead">AFS Gönüllüsü olmak mı istiyorsun? Birkaç adımda üye ol!</p>
+              <a class="btn btn-large btn-primary" href="<?php echo base_url(); ?>/nasil">Nasıl?</a>
             </div>
           </div>
         </div>
