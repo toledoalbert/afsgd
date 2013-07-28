@@ -26,7 +26,7 @@ class Site extends CI_Controller {
                'backgroundImage' => base_url().'/img/copadamlar.jpg',
                'repeat' => 'bottom repeat-x;',
                'header' => 'Misyonumuz',
-               'caption' => 'AFS Gonulluleri Dernegi dunya barisi adina hizmet vermektedir! <br> Blah blah blah!',
+               'caption' => 'AFS Gonulluleri Dernegi kültürler arası anlayışı aşılamaya yönelik çalışmalar düzenlemektedir. ',
                'arrowDown' => true
           );
 
