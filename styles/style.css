@@ -110,3 +110,7 @@ h1.arrow-down{
 	padding-left: 50px;
 	margin-left: 30px;
 }
+
+.site-container{
+	max-width: 1400px;
+}

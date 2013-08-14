@@ -1,3 +1,4 @@
+<div class="container site-container">
 <nav id="cbp-hrmenu" class="cbp-hrmenu">
 					<div class="nav-right">
 						<a href="<?php echo base_url();?>portal"> <button type="submit" class="btn btn-success">Gonullu Portali</button></a>

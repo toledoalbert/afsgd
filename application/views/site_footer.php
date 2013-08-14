@@ -71,6 +71,7 @@
         cbpHorizontalMenu.init();
       });
 </script>
+</div>
 </body>
 
 </html>
