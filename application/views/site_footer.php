@@ -4,7 +4,7 @@
   <div id="footer-inside" class="row-fluid text-center">
     <div class="span12">
 
-      <div class="span2" style="width: 18%;">
+      <div class="span2">
         <ul class="unstyled">
           <li>ADRES<li>
             <li><a target="_blank" href="https://www.google.com/maps?q=Me%C5%9Frutiyet+Mh.+Samanyolu+Sk+9-41,+34400+%C5%9Ei%C5%9Fli%2F%C4%B0stanbul&ie=UTF8&sll=40.4313684,-79.9805005&sspn=0.20072197450695625,0.3516235464532716&t=m&dg=opt&hnear=Me%C5%9Frutiyet+Mh.,+Samanyolu+Sk+No:9,+%C5%9Ei%C5%9Fli,+Turkey&z=17">Samanyolu Sok. Ümit Han. No:36 D:9 Osmanbey – Şişli/ İstanbul</a></li>  
