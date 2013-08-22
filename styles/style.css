@@ -118,3 +118,17 @@ h1.arrow-down{
 .site-container{
 	max-width: 1400px;
 }
+
+.socialmediaicon{
+	
+	width: 32px;
+	height: 32px;
+	opacity: 0.5;
+
+}
+
+.socialmediaicon:hover{
+	
+	opacity: 1.0;
+
+}
