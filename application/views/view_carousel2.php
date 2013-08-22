@@ -1,4 +1,4 @@
-<div id="myCarousel" class="carousel slide" style="z-index:0;">
+<div id="myCarousel" class="carousel slide site-container container" style="z-index:0;">
       <div class="carousel-inner">
         <div class="item active">
           <img src="<?php echo base_url(); ?>img/dunyakafa.jpg" alt="">
