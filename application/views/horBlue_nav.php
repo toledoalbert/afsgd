@@ -25,26 +25,7 @@
 							</div><!-- /cbp-hrsub -->
 						</li>
 						<li>
-							<a href="#">Duyurular</a>
-							<div class="cbp-hrsub">
-								<div class="cbp-hrsub-inner"> 
-									<div>
-										<a href="<?php echo base_url();?>merkez">Merkez Yönetim Kurulu<a>
-									</div>
-									<div>
-										<a href="<?php echo base_url();?>ankara">Ankara Şubesi</a>
-									</div>
-									<div>
-										<a href="<?php echo base_url();?>istanbul">İstanbul Şubesi</a>
-									</div>
-									<div>
-										<a href="<?php echo base_url();?>izmir">İzmir Şubesi</a>
-									</div>
-									<div>
-										<a href="<?php echo base_url();?>haberler">Haberler</a>
-									</div>
-								</div><!-- /cbp-hrsub-inner -->
-							</div><!-- /cbp-hrsub -->
+							<a href="<?php echo base_url(); ?>duyurular">Duyurular</a>
 						</li>
 						<li>
 							<a href="#">Projeler ve Etkinlikler</a>

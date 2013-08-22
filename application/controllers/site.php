@@ -41,77 +41,13 @@ class Site extends CI_Controller {
 	}
 
 
-	//Istanbul duyurulari
-	public function istanbul(){
-
-		$data = array(
-               'url' => 'istanbul',
-               'sube' => 'Istanbul'
-          );
-
-		$this->load->view("site_header");
-		$this->load->view("horBlue_nav");
-		$this->load->view("view_duyuru", $data);
-		$this->load->view("site_footer");
-
-	}
-
-	//izmir duyurulari
-	public function izmir(){
-		
-		$data = array(
-               'url' => 'izmir',
-               'sube' => 'Izmir'
-          );
-
-		$this->load->view("site_header");
-		$this->load->view("horBlue_nav");
-		$this->load->view("view_duyuru", $data);
-		$this->load->view("site_footer");
-
-	}
-
-	//ankara duyurulari
-	public function ankara(){
-		
-		$data = array(
-               'url' => 'ankara',
-               'sube' => 'Ankara'
-          );
-
-		$this->load->view("site_header");
-		$this->load->view("horBlue_nav");
-		$this->load->view("view_duyuru", $data);
-		$this->load->view("site_footer");
-		
-	}
-
-	//myk duyurulari
-	public function merkez(){
-		
-		$data = array(
-               'url' => 'myk',
-               'sube' => 'Merkezi Yonetim'
-          );
-
-		$this->load->view("site_header");
-		$this->load->view("horBlue_nav");
-		$this->load->view("view_duyuru", $data);
-		$this->load->view("site_footer");
-		
-	}
 
 	//haberler duyurulari
-	public function haberler(){
-		
-		$data = array(
-               'url' => 'haber',
-               'sube' => 'Haberler'
-          );
+	public function duyurular(){
 
 		$this->load->view("site_header");
 		$this->load->view("horBlue_nav");
-		$this->load->view("view_duyuru", $data);
+		$this->load->view("view_duyuru");
 		$this->load->view("site_footer");
 		
 	}
