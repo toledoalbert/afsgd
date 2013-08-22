@@ -1,11 +1,11 @@
 <div >
 <nav id="cbp-hrmenu" class="cbp-hrmenu">
 					<div class="nav-right">
-						<a href=""><img src="<?php echo base_url(); ?>img/facebook.png" alt="" class="socialmediaicon"></a>
-						<a href=""><img src="<?php echo base_url(); ?>img/twitter.png" alt="" class="socialmediaicon"></a>
-						<a href=""><img src="<?php echo base_url(); ?>img/youtube.png" alt="" class="socialmediaicon"></a>
-						<a href=""><img src="<?php echo base_url(); ?>img/instagram.png" alt="" class="socialmediaicon"></a>
-						<a href=""><img src="<?php echo base_url(); ?>img/linkedin.png" alt="" class="socialmediaicon"></a>
+						<a target="_blank" href="http://www.facebook.com/AFSGD"><img src="<?php echo base_url(); ?>img/facebook.png" alt="" class="socialmediaicon"></a>
+						<a target="_blank" href="http://www.twitter.com/AFSGD"><img src="<?php echo base_url(); ?>img/twitter.png" alt="" class="socialmediaicon"></a>
+						<a target="_blank" href="http://www.youtube.com/user/AFSGonulluleri"><img src="<?php echo base_url(); ?>img/youtube.png" alt="" class="socialmediaicon"></a>
+						<a target="_blank" href="http://www.instagram.com/AFSGonulluleri"><img src="<?php echo base_url(); ?>img/instagram.png" alt="" class="socialmediaicon"></a>
+						<a target="_blank" href="http://www.linkedin.com/company/3193977?trk=prof-exp-company-name"><img src="<?php echo base_url(); ?>img/linkedin.png" alt="" class="socialmediaicon"></a>
 					</div>
 					<ul style="position: relative; z-index: 1;">
 						<li><a style=" color: #0088cc; font-weight: bold;" href="<?php echo base_url(); ?>">AFSGD</a></li>
