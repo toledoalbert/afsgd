@@ -1,3 +1,4 @@
+</div>
 <div class="invisible-seperator"></div>
 <div id="footer" class="container visible-desktop"> 
 <div id="footer-inside" class="row-fluid text-center">

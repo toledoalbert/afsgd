@@ -2,6 +2,8 @@
 	width: 100%;
 	border-bottom: 4px solid #EBA900;
 	background-color: #ECECEC;
+	position: fixed;
+	z-index: 999;
 }
 
 /* general ul style */

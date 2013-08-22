@@ -17,6 +17,10 @@
 	border-right-color: #222222;
 }
 
+.content{
+	padding-top: 50px;
+}
+
 .carousel .item{
 	height: 500px;
 	overflow:hidden;

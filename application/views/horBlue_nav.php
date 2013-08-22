@@ -38,7 +38,7 @@
 										<a href="<?php echo base_url();?>aka">Ankara Kültür Avı</a>
 									</div>
 									<div>
-										<a href="<?php echo base_url();?>chapex">Chapex</a>
+										<a href="<?php echo base_url();?>chapex">ChapEx</a>
 									</div>
 									<div>
 										<a href="<?php echo base_url();?>festikult">Fest-i Kült</a>
@@ -61,3 +61,4 @@
 
 					</ul>
 				</nav>
+				<div class="content">
