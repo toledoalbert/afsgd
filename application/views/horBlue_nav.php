@@ -45,6 +45,9 @@
 										<a href="<?php echo base_url();?>chapex">ChapEx</a>
 									</div>
 									<div>
+										<a href="<?php echo base_url();?>egitim">Eğitimler</a>
+									</div>
+									<div>
 										<a href="<?php echo base_url();?>festikult">Fest-i Kült</a>
 									</div>
 									<div>
@@ -60,7 +63,7 @@
 							</div><!-- /cbp-hrsub -->
 						</li>
 						<li>
-							<a href="<?php echo base_url();?>iletisim">Iletisim</a>
+							<a href="<?php echo base_url();?>iletisim">İletişim</a>
 						</li>
 
 					</ul>
